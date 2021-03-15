@@ -1,0 +1,63 @@
+.font-sort{
+
+  color:#262626;
+  font-size:15px;
+  margin:0 10px;
+}
+
+
+
+
+.nav-link{
+  color:#000000;
+}
+a:hover {
+  color: red;
+}
+.Buildpc{
+
+  height:100px;
+   background: linear-gradient(to right, #0099ff 0%, #00ffff 100%);
+
+}
+
+.Build{
+  text-align: center;
+  padding:25px 25px 25px 25px;
+  color:#ffffff;
+   font: 44px "Arial";
+
+}
+
+ul {
+ padding:0;
+ margin:0
+
+}
+li {
+ list-style:none;
+
+}
+
+.mini-footer {
+ background:#205081;
+ text-align:center;
+ color:white;
+
+}
+
+.footer-area{
+
+  margin-top: 10%;
+  background:#205081;
+}
+
+.mainfooter{
+
+  padding:7% 7% 7% 7%;
+  color:white;
+}
+
+.Imppage{
+  color:#ffffff;
+}
